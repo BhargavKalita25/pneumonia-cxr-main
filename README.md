@@ -10,7 +10,7 @@ It includes training, evaluation, explainability (Grad-CAM), a FastAPI backend, 
 ## 📥 Clone the Repository
 
 ```powershell
-git clone https://github.com/nitishdhamu/pneumonia-cxr.git
+git clone https://github.com/BhargavKalita25/pneumonia-cxr.git
 cd pneumonia-cxr
 ```
 
@@ -154,5 +154,6 @@ Features:
 ## 📜 License
 
 MIT
+
 
 
