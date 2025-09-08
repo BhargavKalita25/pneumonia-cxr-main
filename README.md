@@ -43,7 +43,7 @@ pneumonia-cxr/
 **Windows (PowerShell / CMD):**
 ```powershell
 python -m venv .venv
-.venv\Scripts\activate
+.\.venv\Scripts\Activate.ps1
 ```
 
 **macOS / Linux (bash/zsh):**
@@ -154,6 +154,7 @@ Features:
 ## 📜 License
 
 MIT
+
 
 
 
